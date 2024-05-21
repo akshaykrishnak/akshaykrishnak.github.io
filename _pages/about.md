@@ -12,13 +12,13 @@ profile:
     <p>999 your office number</p>
     <p>nine your address street</p>
     <p>kundannur po , andimukk India</p>
-
+ 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Gradute Cybersecurity Analyst. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+rate rs 500 for one hour. all are alloted.any types are adjusted. for one day 3000 (offer closses soon) [subreddit](http://reddit.com). my picture is in instagram @ akshaykrishna k.rate can be adjusted when i am tired.andi poya annan is my nickname(shortly call me andi) The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
