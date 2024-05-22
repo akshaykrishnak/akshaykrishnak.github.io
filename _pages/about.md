@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! i am Akshay Krishna k , I recently graduated with BSc in Information Security And Digital Forensics from Karunya university,Coimbatore,India. And i am done Internship with Kerala Police at Cyber Crime Police Station thrissur which focused on Diffrent types of Scams and cyber threats.   my picture is in instagram @ akshaykrishna k.rate can be adjusted when i am tired.andi poya annan is my nickname(shortly call me andi) The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! i am Akshay Krishna k , I recently graduated with BSc in Information Security And Digital Forensics from Karunya university,Coimbatore,India. And i am done Internship with Kerala Police at Cyber Crime Police Station thrissur which focused on Diffrent types of Scams and cyber threats.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
