@@ -2,7 +2,7 @@
 layout: page
 title: CodeGuard
 description: A Malware Analysis Tool that uses to detect threats and Malware Anomalies.
-img: assets/img/12.jpg
+img: assets/img/AKSHAY.jpg
 importance: 1
 category: work
 related_publications: true
